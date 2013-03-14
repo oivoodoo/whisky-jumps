@@ -1,0 +1,1 @@
+{:map {"resources/images/title_screen.png" {:group "resources-images", :marginTop 0, :y 2, :marginBottom 0, :x 2, :sheet "resources-images0.png", :marginRight 0, :sheetSize [512 512], :h 480, :marginLeft 0, :scale 1.0, :w 321}}, :hashes {("resources" "images") 1055275772}}
